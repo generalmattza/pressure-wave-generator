@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ANSYS_EnggData>
+    <MaterialData/>
+    <ConvectionData/>
+    <LoadVariationData>
+        <MatML_Doc>
+            <LoadVariation>
+                    <BulkDetails>
+                        <Name>Pressure</Name>
+                        <Form>
+                            <Description/>
+                    </Form>
+                        <PropertyData property="pr1">
+                            <Data format="float">900000000.0,900000000.0,900000000.0,667791676.5513003,502984234.9511706,386013867.9833354,302995367.02397525,244073849.71836188,202254915.84848598,172574362.63153,151508898.79149806,136557905.00266993,125946592.7158364,118415324.22364813,113070084.76897618,109276356.67955576,106583797.63921602,104672781.8745562,103316458.31839098,102353821.78601466,101670600.5227303,101185691.33956064,100841532.09195186,100597268.64670134</Data>
+                            <Qualifier>Pressure</Qualifier>
+                            <ParameterValue format="float" parameter="pa1">0.0,5e-06,1e-05,1.4285714285714287e-05,1.8571428571428572e-05,2.2857142857142858e-05,2.7142857142857144e-05,3.142857142857143e-05,3.571428571428572e-05,4e-05,4.428571428571429e-05,4.8571428571428576e-05,5.285714285714286e-05,5.714285714285715e-05,6.142857142857143e-05,6.571428571428573e-05,7.000000000000001e-05,7.428571428571429e-05,7.857142857142858e-05,8.285714285714287e-05,8.714285714285715e-05,9.142857142857143e-05,9.571428571428573e-05,0.0001</ParameterValue>
+                    </PropertyData>
+                </BulkDetails>
+                    <Metadata>
+                        <ParameterDetails id="pa1">
+                            <Name>Time</Name>
+                    </ParameterDetails>
+                        <PropertyDetails id="pr1">
+                            <Name>Pressure</Name>
+                    </PropertyDetails>
+                </Metadata>
+            </LoadVariation>
+        </MatML_Doc>
+    </LoadVariationData>
+    <BeamSectionData/>
+</ANSYS_EnggData>
+    
